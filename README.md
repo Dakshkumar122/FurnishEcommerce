@@ -1,41 +1,71 @@
-# Furnish Free Bootstrap 5 Furniture Website Template
+# HomeFurnish 🛋️
 
-#### Preview
+HomeFurnish is a modern and responsive furniture website built using HTML, SCSS, JavaScript, Bootstrap 5, Swiper.js, and Vite.
 
- - [Demo](https://themewagon.github.io/furnish/)
+## 🚀 Features
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/furnish/)
+- Responsive Design
+- Modern UI/UX
+- Bootstrap 5 Layout
+- Swiper Slider Integration
+- SCSS Styling
+- Fast Development with Vite
 
-## Getting Started
+## 🛠️ Technologies Used
 
-1. Clone Repository
+- HTML5
+- SCSS / CSS3
+- JavaScript
+- Bootstrap 5
+- Swiper.js
+- Vite
+
+## 📂 Project Structure
+
+```bash
+src/
+ ├── assets/
+ │    ├── images/
+ │    ├── js/
+ │    └── scss/
+ ├── index.html
+ ├── about.html
+ ├── contact.html
+ ├── products.html
+ └── testimonials.html
 ```
-git clone https://github.com/themewagon/furnish.git
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/HomeFurnish.git
 ```
-2. Install Dependencies
+
+Go to the project folder:
+
+```bash
+cd HomeFurnish/furnish-1.0.0
 ```
-npm i
+
+Install dependencies:
+
+```bash
+npm install
 ```
-3. Run the development server:
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-## Author 
-```
-Design and code is completely written by CodesCandy and development team. 
-```
+## 📸 Preview
 
-## License
+Modern responsive furniture website with elegant sections and smooth user experience.
 
- - Design and Code is Copyright &copy; <a href="https://codescandy.com" target="_blank">CodesCandy</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+## 👨‍💻 Author
+
+Daksh Kumar
+```
